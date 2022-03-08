@@ -46,12 +46,6 @@ npm install
 npm run build
 ```
 
-## Running the Sample
-
-`npm start`
-
-and then browse to [http://localhost:15000](http://localhost:15000).
-
 ## Running the Tests
 
 `npm test`
